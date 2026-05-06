@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs & cache
+application/logs/*
+application/cache/*
+
+# Sensitive config
+application/config/database.php
+
+# IDE
+.vscode/
+.idea/
+
+# Vendor (if using composer)
+vendor/
